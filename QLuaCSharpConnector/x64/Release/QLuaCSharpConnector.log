@@ -1,0 +1,6 @@
+﻿     Создается библиотека C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\x64\Release\QLuaCSharpConnector.lib и объект C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\x64\Release\QLuaCSharpConnector.exp
+QLuaCSharpConnector.obj : error LNK2019: ссылка на неразрешенный внешний символ luaL_openlib в функции luaopen_QluaCSharpConnector
+QLuaCSharpConnector.exp : error LNK2001: неразрешенный внешний символ "luaL_openlib"
+QLuaCSharpConnector.obj : error LNK2019: ссылка на неразрешенный внешний символ lua_pushstring в функции "int __cdecl forLua_TestFunc(struct lua_State *)" (?forLua_TestFunc@@YAHPEAUlua_State@@@Z)
+QLuaCSharpConnector.exp : error LNK2001: неразрешенный внешний символ "lua_pushstring"
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\x64\Release\QLuaCSharpConnector.dll : fatal error LNK1120: неразрешенных внешних элементов: 2

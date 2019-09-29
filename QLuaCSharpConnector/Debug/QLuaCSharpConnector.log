@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  QLuaCSharpConnector.cpp
+c:\users\anton\documents\visual studio 2015\projects\qluacsharpconnector\qluacsharpconnector\qluacsharpconnector.cpp(92): warning C4244: =: преобразование "lua_Number" в "int", возможна потеря данных
+  QLuaCSharpConnector.vcxproj -> C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\QLuaCSharpConnector\..\..\..\..\..\..\..\BCS\Учебный QUIK БКС\QLuaCSharpConnector.dll
+  QLuaCSharpConnector.vcxproj -> ..\..\..\..\..\..\..\BCS\Учебный QUIK БКС\QLuaCSharpConnector.pdb (Partial PDB)
