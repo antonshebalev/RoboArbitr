@@ -1,0 +1,9 @@
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\bin\Debug\WFATestArbitr.exe.config
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\bin\Debug\WFATestArbitr.exe
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\bin\Debug\WFATestArbitr.pdb
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.Form1.resources
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.Properties.Resources.resources
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.csproj.GenerateResource.Cache
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.exe
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.pdb
+C:\Users\Anton\documents\visual studio 2015\Projects\QLuaCSharpConnector\WFATestArbitr\obj\Debug\WFATestArbitr.csprojResolveAssemblyReference.cache
